@@ -352,3 +352,7 @@ timer = simplegui.create_timer(1000.0, rock_spawner)
 
 # get things rolling
 frame.start()
+
+#linija1
+#linija2
+#commit1
